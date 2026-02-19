@@ -20,7 +20,7 @@ BeidPrep is a, standalone pre-processing application designed to author, edit, a
 
 ## 1. Project Overview
 
-BeidPrep Pro targets high-energy, highly non-linear physics simulations including:
+BeidPrep targets the creation of a solver decks to be run using the OpenRadioss solver of high-energy, highly non-linear physics simulations including:
 
 - **Structural Impact & Crash** — automotive, aerospace, and defense applications
 - **Smoothed-Particle Hydrodynamics (SPH)** — fluid-structure interaction, projectile penetration, fragmentation
@@ -28,9 +28,9 @@ BeidPrep Pro targets high-energy, highly non-linear physics simulations includin
 - **Composite Material Modelling** — progressive failure, fabric materials, orthotropic shells
 - **Hyper-elastic and Visco-elastic Bodies** — rubber, foam, biological tissues
 
-The application reads and writes the Radioss Starter deck format (`.rad`), strictly enforcing the **10-character column layout at 80 characters per line** required by the solver. Every field is formatted with column precision — integers, floats with scientific notation, and character flags — eliminating hand-formatting errors that can silently corrupt a run.
+The application reads and writes the Radioss Starter deck format (`.rad`), strictly enforcing the **10-character column layout at 100 characters per line** required by the solver. Every field is formatted with column precision — integers, floats with scientific notation, and character flags — eliminating hand-formatting errors that can silently corrupt a run.
 
-BeidPrep also includes an **LS-DYNA importer** (`.k` / `.key` format), converting keyword-based LS-DYNA decks into equivalent OpenRadioss cards and giving teams a direct migration path from commercial to open-source solvers.
+BeidPrep also includes an **LS-DYNA mesh importer** (`.k` format), converting keyword-based LS-DYNA decks into equivalent OpenRadioss mesh cards and giving teams a direct migration path from commercial to open-source solvers. 
 
 ---
 
