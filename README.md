@@ -457,16 +457,15 @@ commercial purposes provided this copyright notice is retained.
 Modification, reverse-engineering, or redistribution of the source
 code in any form is strictly prohibited without prior written
 permission from the copyright holder.
-```
+
 BeidPrep v1.0 is currently in Beta and is provided to the community as free software "as-is".
-
 By downloading and using this software, you acknowledge the following:
-
 No Liability: I assume no responsibility or liability for any errors, model inaccuracies, or engineering failures resulting from the use of this tool.
-
 Engineering Judgment: This software is a productivity aid and does not replace the requirement for professional engineering judgment and thorough verification of simulation inputs and results.
+```
 
 Beta Status: As a Beta release, you may encounter bugs. I encourage your feedback to help improve the tool, but I provide no warranties regarding its performance or stability.
+
 ---
 
 *BeidPrep Pro — Engineered for solvers that don't compromise.*
