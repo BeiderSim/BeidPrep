@@ -5,7 +5,7 @@
 BeidPrep is a standalone pre-processing application designed to author, edit, and validate .rad input decks for the OpenRadioss explicit solver. It provides an integrated 3D environment, an AI-driven card generation engine, an LS-DYNA mesh importer, and a structured template library, enabling engineers to integrate BeidPrep into their modeling environment for OpenRadioss without sacrificing productivity.
 - **Zero Cost**: Professional FEA tools shouldn't be a luxury.
 - **Visual-First**: Move from text-editing to 3D selection.
-- Visit [beidersim.com/beidprep](https://beidersim.com/beidprep) for more info and distribution options.
+- Download for free from [beidersim.com/beidprep](https://beidersim.com/beidprep)
 
 ---
 
