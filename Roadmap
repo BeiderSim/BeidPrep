@@ -1,0 +1,31 @@
+# 🚀 BeidPrep Development Roadmap
+
+**Current Milestone:** v1.0.0 (Stable Release)  
+**Target Milestone:** v2.0.0 (Advanced Geometry, Meshing & Assembly)
+
+This roadmap outlines the planned development for **BeidPrep**. The focus for the next major release is to expand the tool from a card and interface manager into a comprehensive geometric and assembly pre-processor.
+
+---
+
+## 🛠️ Version 2.0 Core Features
+
+### **1. Intelligent Connectors & Assembly**
+* **Edge-to-Edge Connection:** Automated generation of seam welds and ties based on proximity detection between two parts.
+* **Hole-Alignment Logic:** Detection of collinear holes across multiple components to automate the placement of bolts, rivets, or 1D beam elements.
+* **Fastener Library:** Pre-defined templates for common industrial connectors (Spot welds, RBE3-Hexa-RBE3, etc.).
+
+### **2. Advanced Meshing Engine**
+* **Integrated 2D/3D Mesher:** Native surface and volume meshing capabilities within the viewport.
+* **2nd Order Elements:** Full support for quadratic elements to improve accuracy in nonlinear structural and high-energy impact analysis.
+
+### **3. Geometry & CAD Logic**
+* **Direct CAD Capabilities:** Geometry creation (Points, Lines, Surfaces) directly within the environment.
+* **Defeature Tools:** Automated cleanup of "dirty" geometry, including small hole removal and surface stitching to prepare for high-quality meshing.
+
+### **4. Enhanced User Experience**
+* **State Management (Undo/Redo):** A robust multi-step history system to allow for rapid design iterations and error correction.
+* **Shareable Template Library:** Exportable templates for material properties and interface (/TYPE) definitions to ensure consistency across different models.
+
+---
+
+> *Built for engineers, by engineers.*
