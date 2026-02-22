@@ -6,7 +6,7 @@ BeidPrep is a standalone pre-processing application designed to author, edit, an
 - **Zero Cost**: Professional FEA tools shouldn't be a luxury.
 - **Visual-First**: Move from text-editing to 3D selection.
 - Download for free from [beidersim.com/beidprep](https://beidersim.com/beidprep)
-
+- Looking for what's next? Check out our [Future Roadmap](ROADMAP.md).
 ---
 
 ## Table of Contents
