@@ -4,8 +4,8 @@
 
 BeidPrep is a standalone pre-processing application designed to author, edit, and validate .rad input decks for the OpenRadioss explicit solver. It provides an integrated 3D environment, an AI-driven card generation engine, an LS-DYNA mesh importer, and a structured template library, enabling engineers to integrate BeidPrep into their modeling environment for OpenRadioss without sacrificing productivity.
 - **Zero Cost**: Professional FEA tools shouldn't be a luxury.
-- **Zero Setup**: Standalone executable. No Python installation required.
 - **Visual-First**: Move from text-editing to 3D selection.
+- Visit [beidersim.com/beidprep](https://beidersim.com/beidprep) for more info and distribution options.
 
 ---
 
@@ -430,7 +430,7 @@ Both files must be kept in the same folder. The application reads and writes `te
 | OS | Windows 10 64-bit or later |
 | RAM | 4 GB (8 GB recommended for large meshes) |
 | GPU | Any OpenGL 3.3-capable GPU (integrated graphics supported) |
-| Disk | ~200 MB (executable + dependencies) |
+| Disk | ~1.5 GB (executable + dependencies) |
 
 ### Build from Source (Developers)
 
