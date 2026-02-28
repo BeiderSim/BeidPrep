@@ -1,7 +1,7 @@
 # Changelog
 
 ## [1.0.1] - 2026-02-28
-
+- **Credits:** Thanks to Roopesh Puthalath for providing essential feedback and suggestions that helped refine the feature set and resolve critical bugs in this release.
 ### 🚀 Major New Features
 - **Model Merging (Append Mode):** Import multiple .k or .rad models into a single session with automated ID shifting.
 - **"Blank Slate" Mode:** Start projects without a mesh to create and save analysis card templates.
